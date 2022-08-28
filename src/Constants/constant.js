@@ -1,5 +1,5 @@
 //enpoint python anywhere
-export const baseUrl = "http://tricode.pythonanywhere.com/";
+export const baseUrl = "https://tricode.pythonanywhere.com/";
 
 //endpoint local computer ip address(python manage.py runserver 0.0.0.0:8000)
 // export const baseUrl = "http://192.168.1.129:8000/";
